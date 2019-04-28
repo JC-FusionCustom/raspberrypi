@@ -102,7 +102,7 @@ Reference the writeRecord.py file for the desired outcome
 8.4.	After the API call has been made and  
 8.5.	Check the MongoDB for the inserted record using the ‘device’=’device_name’ and ‘sourcecreatets’=’created_at’
 8.6.	MongoDB connection information
-8.6.1.	 http://ec2-13-58-115-247.us-east-2.compute.amazonaws.com:27017 dscapiuser@bdtemp | Datasource2017!
+8.6.1.	 http://ec2-13-58-115-247.us-east-2.compute.amazonaws.com:27017
 9.	Catch up script – catchupScript.py
 9.1.	Create a script that will process records that were not successfully submitted to the API
 9.2.	Copy the apiSubmit.py script and rename it (catcupScrip.py)
